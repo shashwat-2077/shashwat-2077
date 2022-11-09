@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
-<h3 align="center">Pursuing my 3rd year in CSE Engineering in Vellore Institute of Technology with specialisation in Artificial Intellignece & Machine Learning. I hail from Bhubaneswar, Odisha</h3>
+<h3 align="center">Pursuing 3rd year in CSE Engineering in Vellore Institute of Technology with specialisation in Artificial Intellignece & Machine Learning. I hail from Bhubaneswar, Odisha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-2077&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat-2077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat-2077" alt="shashwat-2077" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shashwat_pattan" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat_pattan?logo=twitter&style=for-the-badge" alt="shashwat_pattan" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shashwat-pattanayak/" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat_pattan?logo=twitter&style=for-the-badge" alt="shashwat_pattan" /></a> </p>
 
 - 🔭 I’m currently working on **Multi-projects including Android & Machine Learning**
 
