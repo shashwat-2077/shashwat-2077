@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat-2077" alt="shashwat-2077" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shashwat-pattanayak/" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat_pattan?logo=twitter&style=for-the-badge" alt="shashwat_pattan" /></a> </p>
+<!-- <p align="left"> <a href="https://www.linkedin.com/in/shashwat-pattanayak/" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat_pattan?logo=twitter&style=for-the-badge" alt="shashwat_pattan" /></a> </p> -->
 
 - 🔭 I’m currently working on **Multi-projects including Android & Machine Learning**
 
